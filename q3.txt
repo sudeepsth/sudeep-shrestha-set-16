@@ -1,0 +1,12 @@
+Q3.
+Ans:-
+	The test scenario of given login page are a follows:-
+
+1) Test whether the password filed is masked with asterisks(*) or not.
+2) Try to login with incorrect username or password and check whether it is login or not.
+3) check whether forget password link is working properly or not.
+4) test if the password can be copy-pasted or not.
+5) verify that you need to sign in again when sign in from one browser, then open the same application in another browser.
+6) test whether user can login using old password or not.
+7) test the main page URL without login to any application.
+8) test whether the password field is case sensitive or not.

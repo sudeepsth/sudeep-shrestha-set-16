@@ -1,0 +1,30 @@
+
+package UglyNum;
+
+import java.util.Scanner;
+
+public class UglyNum {
+    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number to check ugly number: ");
+        int num=sc.nextInt();
+        int tem=num;
+        while(num%2==0){
+            num /=2;
+        }
+        while(num%3==0){
+            num/=3;
+        }
+        while(num%5==0){
+            num/=5;
+        }
+        if(num==1){
+            System.out.println("It is a ugly number");
+        }else
+        {
+            System.out.println("The given number is not ugly number");
+        }
+    }
+    
+}
