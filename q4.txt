@@ -1,11 +1,11 @@
 4)
 Ans
 
-	I would use agile model for developing custom design/printed T-shirt website/app.As web-based application differ from other traditional applications as it is known to be of high reliability, high usability, more secured, takes a shorter time to market, have a shorter product life cycles and required continuous maintenance. So, Agile model suits from this type of website.
+	I would use agile model for developing custom design/printed T-shirt website/app. As web-based application differ from other traditional applications as it is known to be of high reliability, high usability, more secured, takes a shorter time to market, have a shorter product life cycles and required continuous maintenance. So, Agile model suits from this type of website.
 
 For developing a web application for the company, I will ensure that the development process is short and its within the specific budget of the company. I will plan for the development of the website by following ways.
 
-1) First of all I will find out as much as detail about client’s company and find out their project goals. And then I will also find out the purpose of this project and their end goals. 
+1) First of all I will find out as much as detail about clientâ€™s company and find out their project goals. And then I will also find out the purpose of this project and their end goals. 
 
 2) I will develop the prototype of the website and then send it to client for feedback.
 
